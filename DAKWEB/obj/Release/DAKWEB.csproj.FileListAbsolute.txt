@@ -1,6 +1,0 @@
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\DAKWEB.csprojAssemblyReference.cache
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\DAKWEB.frmBrowser.resources
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\DAKWEB.Properties.Resources.resources
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\DAKWEB.csproj.GenerateResource.cache
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\DAKWEB.csproj.CoreCompileInputs.cache
-C:\Users\sanR\source\repos\DAKWEB\DAKWEB\obj\Release\BunifuBrowser.frmBrowser.resources
